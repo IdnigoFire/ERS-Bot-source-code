@@ -190,12 +190,4 @@ async def removerole(ctx, user: discord.User, role: discord.Role):
     await ctx.send(f"{role} has been removed from {user}.")
     await user.send(f'you have been removed from the role {role}')
 
-@client.command()
-async def matti(ctx):
-  await ctx.send('what are the chances that tommys gran is faster than matti?')
-
-@client.command()
-async def invite(ctx):
-  await ctx.send('i cant be invited to anyones server but all of my code is open source! you can find it here: https://github.com/IdnigoFire/ERS-Bot-source-code')
-
 client.run('TOKEN GOES HERE')
