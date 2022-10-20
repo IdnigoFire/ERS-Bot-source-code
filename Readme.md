@@ -1,3 +1,3 @@
-Make sure to create a secret for your token
-
-Make sure to setup your bot on uptime robot
+This bot is self hosted using visual studio code
+if you would like to pay for hosting then do your research
+DO NOT TAKE CREDIT IF YOU USE THIS CODE
